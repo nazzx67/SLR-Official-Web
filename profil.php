@@ -1,4 +1,8 @@
 <?php
+/**
+ * WBS 2.3: Implementasi Update Profil & Foto Fans SLR
+ * Assignee: Hilmi Andika - Kelompok 3 Praktikum Pemrograman Web
+ */
 include 'header.php';
 
 if (!isset($_SESSION['id_pengguna'])) {
