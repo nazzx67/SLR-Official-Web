@@ -1,4 +1,8 @@
 <?php
+/**
+ * WBS 2.2: Implementasi Create (INSERT) Pesanan Tiket Konser
+ * Assignee: Ahyas Ulumudin Wicaksono - Kelompok 3 Praktikum Pemrograman Web
+ */
 session_start();
 include 'koneksi.php';
 

@@ -1,4 +1,8 @@
 <?php
+/**
+ * WBS 2.2: Implementasi Create (INSERT) Pesan Kontak Fans SLR
+ * Assignee: Ahyas Ulumudin Wicaksono - Kelompok 3 Praktikum Pemrograman Web
+ */
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
